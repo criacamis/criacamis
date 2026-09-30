@@ -1,50 +1,13 @@
 {
   "settings": {
-    "whatsapp": "https://wa.me/5534900000000",
+    "whatsapp": "https://wa.me/5534996630246",
     "instagram": "https://instagram.com/_criacamis",
     "instaPosts": []
   },
-  "site": {
-    "brand": "criacamis",
-    "heroEyebrow": "@_criacamis · design de post & identidade",
-    "heroTitle1": "POST",
-    "heroTitle2": "folio",
-    "heroText": "Um compilado de artes criadas para marcas de diferentes nichos. Clique em um trabalho para ver a apresentação completa.",
-    "heroBtn1": "ver trabalhos",
-    "heroBtn2": "bora criar junto?",
-    "heroPhoto": "",
-    "avatar": "",
-    "worksTitle": "Trabalhos",
-    "worksAccent": "que eu criei",
-    "fbTitle": "meu trabalho",
-    "fbAccent": "é sobre isso!",
-    "instaSub": "acompanha o dia a dia no Instagram",
-    "contactTitle": "pense diferente",
-    "contactAccent": "bora criar junto?",
-    "whatsBtn": "chamar no WhatsApp",
-    "footer": "© criacamis — design de post & identidade"
-  },
-  "feedbacks": [
-    {
-      "id": "f1",
-      "who": "feedbacks",
-      "text": "Então te agradeço parceria boa com você.\nResultado bom para nós!"
-    },
-    {
-      "id": "f2",
-      "who": "feedbacks",
-      "text": "Oie amiga, boa noite, tudo bem?\nficaram lindoss\nmuito obrigado viu ❤️"
-    },
-    {
-      "id": "f3",
-      "who": "feedbacks",
-      "text": "você é a melhor amiga, eu adorei\neu vou mandar pra ele aprovar"
-    }
-  ],
   "works": [
     {
       "id": "w1",
-      "title": "Teste",
+      "title": "Portfólio de posts",
       "category": "Design de post",
       "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
       "desc": "Um compilado de artes desenvolvidas em diferentes nichos.",
@@ -77,6 +40,139 @@
       "desc": "Templates de stories para mostrar depoimentos de clientes.",
       "cover": "",
       "featured": false
+    }
+  ],
+  "site": {
+    "brand": "criacamis",
+    "heroEyebrow": "@_criacamis · design de post & identidade",
+    "heroTitle1": "POST",
+    "heroTitle2": "folio",
+    "heroText": "Um compilado de artes criadas para marcas de diferentes nichos. Clique em um trabalho para ver a apresentação completa.",
+    "heroBtn1": "ver trabalhos",
+    "heroBtn2": "bora criar junto?",
+    "heroPhoto": "",
+    "avatar": "",
+    "worksTitle": "Trabalhos",
+    "worksAccent": "que eu criei",
+    "fbTitle": "meu trabalho",
+    "fbAccent": "é sobre isso!",
+    "instaSub": "acompanha o dia a dia no Instagram",
+    "contactTitle": "pense diferente",
+    "contactAccent": "bora criar junto?",
+    "whatsBtn": "chamar no WhatsApp",
+    "priceTitle": "Monte seu",
+    "priceAccent": "orçamento",
+    "priceText": "Escolha os serviços, ajuste as quantidades e envie o pedido direto no meu WhatsApp.",
+    "priceNote": "Valores estimados · o valor final é combinado depois de uma conversa rápida",
+    "footer": "© criacamis — design de post & identidade"
+  },
+  "feedbacks": [
+    {
+      "id": "f1",
+      "who": "feedbacks",
+      "text": "Então te agradeço parceria boa com você.\nResultado bom para nós!"
+    },
+    {
+      "id": "f2",
+      "who": "feedbacks",
+      "text": "Oie amiga, boa noite, tudo bem?\nficaram lindoss\nmuito obrigado viu ❤️"
+    },
+    {
+      "id": "f3",
+      "who": "feedbacks",
+      "text": "você é a melhor amiga, eu adorei\neu vou mandar pra ele aprovar"
+    }
+  ],
+  "prices": [
+    {
+      "id": "p1",
+      "category": "Posts avulsos",
+      "name": "Post para feed",
+      "info": "Arte estática para o feed, criada com a identidade da sua marca. Inclui 1 rodada de ajustes.",
+      "min": 40,
+      "max": 60,
+      "unit": "posts"
+    },
+    {
+      "id": "p2",
+      "category": "Posts avulsos",
+      "name": "Carrossel",
+      "info": "Carrossel de até 10 lâminas — ideal para conteúdo educativo, lançamentos e portfólio. Inclui 1 rodada de ajustes.",
+      "min": 90,
+      "max": 150,
+      "unit": "carrosséis"
+    },
+    {
+      "id": "p3",
+      "category": "Posts avulsos",
+      "name": "Stories",
+      "info": "Arte para stories: promoções, avisos, bastidores ou feedbacks de clientes.",
+      "min": 25,
+      "max": 40,
+      "unit": "stories"
+    },
+    {
+      "id": "p4",
+      "category": "Posts avulsos",
+      "name": "Capa de destaque",
+      "info": "Ícones para os destaques do perfil, no estilo da sua marca.",
+      "min": 15,
+      "max": 25,
+      "unit": "capas"
+    },
+    {
+      "id": "p5",
+      "category": "Pacotes mensais",
+      "name": "Pacote Start",
+      "info": "8 posts para feed + 8 stories por mês, com planejamento das datas de postagem.",
+      "min": 350,
+      "max": 450,
+      "unit": "meses"
+    },
+    {
+      "id": "p6",
+      "category": "Pacotes mensais",
+      "name": "Pacote Cria",
+      "info": "12 posts por mês (4 deles em carrossel) + 12 stories + planejamento de feed.",
+      "min": 600,
+      "max": 800,
+      "unit": "meses"
+    },
+    {
+      "id": "p7",
+      "category": "Pacotes mensais",
+      "name": "Pacote Full",
+      "info": "16 posts por mês (6 em carrossel) + stories ilimitados dentro do tema do mês + planejamento e legendas.",
+      "min": 950,
+      "max": 1250,
+      "unit": "meses"
+    },
+    {
+      "id": "p8",
+      "category": "Identidade & marca",
+      "name": "Identidade visual",
+      "info": "Logo, paleta de cores, tipografia e elementos gráficos — com um guia simples de uso da marca.",
+      "min": 800,
+      "max": 1500,
+      "unit": ""
+    },
+    {
+      "id": "p9",
+      "category": "Identidade & marca",
+      "name": "Templates no Canva",
+      "info": "Kit de templates editáveis no Canva para você mesma postar com a cara da sua marca.",
+      "min": 250,
+      "max": 450,
+      "unit": ""
+    },
+    {
+      "id": "p10",
+      "category": "Identidade & marca",
+      "name": "Reposicionamento de perfil",
+      "info": "Análise do perfil, bio, destaques e planejamento visual do feed para os próximos posts.",
+      "min": 200,
+      "max": 400,
+      "unit": ""
     }
   ]
 }
