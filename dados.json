@@ -4,44 +4,6 @@
     "instagram": "https://instagram.com/_criacamis",
     "instaPosts": []
   },
-  "works": [
-    {
-      "id": "w1",
-      "title": "Portfólio de posts",
-      "category": "Design de post",
-      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
-      "desc": "Um compilado de artes desenvolvidas em diferentes nichos.",
-      "cover": "",
-      "featured": true
-    },
-    {
-      "id": "w2",
-      "title": "Ateliê — feed",
-      "category": "Feed",
-      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
-      "desc": "Planejamento visual e posts para um ateliê de costura.",
-      "cover": "",
-      "featured": false
-    },
-    {
-      "id": "w3",
-      "title": "Linha capilar",
-      "category": "Carrossel",
-      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
-      "desc": "Carrosséis educativos para uma marca de cuidados com o cabelo.",
-      "cover": "",
-      "featured": false
-    },
-    {
-      "id": "w4",
-      "title": "Stories de feedback",
-      "category": "Stories",
-      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
-      "desc": "Templates de stories para mostrar depoimentos de clientes.",
-      "cover": "",
-      "featured": false
-    }
-  ],
   "site": {
     "brand": "criacamis",
     "heroEyebrow": "@_criacamis · design de post & identidade",
@@ -77,6 +39,44 @@
       "id": "f3",
       "who": "feedbacks",
       "text": "você é a melhor amiga, eu adorei\neu vou mandar pra ele aprovar"
+    }
+  ],
+  "works": [
+    {
+      "id": "w1",
+      "title": "Teste",
+      "category": "Design de post",
+      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
+      "desc": "Um compilado de artes desenvolvidas em diferentes nichos.",
+      "cover": "",
+      "featured": true
+    },
+    {
+      "id": "w2",
+      "title": "Ateliê — feed",
+      "category": "Feed",
+      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
+      "desc": "Planejamento visual e posts para um ateliê de costura.",
+      "cover": "",
+      "featured": false
+    },
+    {
+      "id": "w3",
+      "title": "Linha capilar",
+      "category": "Carrossel",
+      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
+      "desc": "Carrosséis educativos para uma marca de cuidados com o cabelo.",
+      "cover": "",
+      "featured": false
+    },
+    {
+      "id": "w4",
+      "title": "Stories de feedback",
+      "category": "Stories",
+      "canva": "https://www.canva.com/design/DAHD3zwq8Fo/EKaXQhZg3vkb5Eoy0RlfjA/view",
+      "desc": "Templates de stories para mostrar depoimentos de clientes.",
+      "cover": "",
+      "featured": false
     }
   ]
 }
